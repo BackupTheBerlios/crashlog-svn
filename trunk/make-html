@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rst2html.py --stylesheet=style.css README.txt README.html
