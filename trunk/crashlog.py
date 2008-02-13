@@ -3,7 +3,7 @@
 Use either "import crashlog" in your code or run with "python -m crashlog"
 '''
 
-# Miki Tebeka <miki@ewtllc.com>
+__author__ = "Miki Tebeka <miki.tebeka@gmail.com>"
 
 # This program is distributed under the MIT license, please read
 # http://www.opensource.org/licenses/mit-license.php
